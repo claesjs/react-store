@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useMemo, useReducer } from 'react';
+import React, { createContext, useContext, useMemo } from 'react';
 import { countReducer } from './count-reducer';
 import * as Const from './count-constants';
 import { useReducerWithLogger } from '../common/middlewares';

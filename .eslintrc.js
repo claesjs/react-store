@@ -5,8 +5,7 @@ module.exports = {
     'plugin:react/recommended'
   ],
   plugins: [
-    'react',
-    'flowtype'
+    'react'
   ],
   env: {
     es6: true,
